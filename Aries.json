@@ -65,12 +65,30 @@
       "url": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2011.jpg",
       "name": "Wall 11",
       "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2011.jpg_new.jpg"
-    },
+    }, 
    {
       "author": "Unsplash",
       "url": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2012.jpg",
       "name": "Wall 12",
       "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2012.jpg_new.jpg"
+    }, 
+   {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2013.jpg",
+      "name": "Wall 13",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2013.jpg_new.jpg"
+    }, 
+   {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2014.jpg",
+      "name": "Wall 14",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2014.jpg_new.jpg"
+    },
+   {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2015.jpg",
+      "name": "Wall 15",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Aries-/master/Unsplash%2015.jpg_new.jpg"
     }
     ]
  }
